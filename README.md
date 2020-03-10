@@ -24,7 +24,8 @@ Otherwise, you will get `Error` as string
 ## How to run example:
 In linux :
 
-Open terminal in directory where you downloaded source
+Open terminal in directory where you downloaded source and type
 
 `g++ -o main.o main.cpp`
+
 `g++ ./main.o`
