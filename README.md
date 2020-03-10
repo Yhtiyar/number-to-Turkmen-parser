@@ -20,3 +20,11 @@ Parsing number should be less than `10^15`
 Also can be used for parsing negative numbers, it should be greater than `-10^15`
 
 Otherwise, you will get `Error` as string
+
+## How to run example:
+In linux :
+
+Open terminal in directory where you downloaded source
+
+`g++ -o main.o main.cpp`
+`g++ ./main.o`
